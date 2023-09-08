@@ -1,0 +1,5 @@
+br\com\jazztech\processors\jsonaraaynumberstobigdecimal\GestaoLimite.class
+br\com\jazztech\processors\jsonaraaynumberstobigdecimal\ArrayJsonSplit.class
+br\com\jazztech\processors\jsonaraaynumberstobigdecimal\MoneySerializer.class
+br\com\jazztech\processors\jsonaraaynumberstobigdecimal\JsonArrayNumbersToBigDecimal.class
+br\com\jazztech\processors\jsonaraaynumberstobigdecimal\JsonArrayNumbersToBigDecimal$1.class
